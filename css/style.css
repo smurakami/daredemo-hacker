@@ -1,0 +1,15 @@
+body {
+  background-color: black; }
+
+pre {
+  background-color: black;
+  border: none; }
+
+.message {
+  padding-top: 120px;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
